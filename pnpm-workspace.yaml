@@ -1,0 +1,6 @@
+# Pins the pnpm workspace root to this plugin directory (the parent home
+# directory also has a pnpm-workspace.yaml, which would otherwise win).
+packages:
+  - .
+allowBuilds:
+  esbuild: set this to true or false
