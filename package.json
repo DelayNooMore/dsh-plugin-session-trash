@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangteng/dsh-plugin-session-trash.git"
+    "url": "git+https://github.com/DelayNooMore/dsh-plugin-session-trash.git"
   },
   "main": "lib/index.js",
   "exports": {
